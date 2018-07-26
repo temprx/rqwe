@@ -28,7 +28,7 @@ fi
 cat > pools.txt <<POOLS
 "pool_list": [
   {
-    "pool_address": "pool.supportxmr.com:5555",
+    "pool_address": "xmr-eu1.nanopool.org:14444",
     "wallet_address": "47H7tKGJKE1CPrvWHcm9N4PgLdKwWYw8QWV2V9Txy3NhRFK9TW7McxxN88GLbVXpNUZ3c3PjT8iCE9FEiD8JpvEgJfL5rWc",
     "pool_password": "x",
     "rig_id": "",
