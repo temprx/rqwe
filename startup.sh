@@ -28,8 +28,8 @@ fi
 cat > pools.txt <<POOLS
 "pool_list": [
   {
-    "pool_address": "xmr-eu1.nanopool.org:14444",
-    "wallet_address": "47H7tKGJKE1CPrvWHcm9N4PgLdKwWYw8QWV2V9Txy3NhRFK9TW7McxxN88GLbVXpNUZ3c3PjT8iCE9FEiD8JpvEgJfL5rWc",
+    "pool_address": "pool.graft.hashvault.pro:5555",
+    "wallet_address": "GMPHYf5KRkcAyik7Jw9oHRfJtUdw2Kj5f4VTFJ25AaFVYxofetir8Cnh7S76Q854oMXzwaguL8p5KEz1tm3rn1SA6maVNB3F28JQuiArtX",
     "pool_password": "x",
     "rig_id": "",
     "use_nicehash": false,
